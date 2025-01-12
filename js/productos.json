@@ -1,0 +1,136 @@
+[
+  {
+    "id": "1",
+    "nomPostre": "Mil Hojas",
+    "descripcion": "Crujientes capas de hojaldre que esconden un suave y dulce corazón de crema pastelera.",
+    "imgPostre": "Imagenes/imgMilhoja.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 3.50
+  },
+  {
+    "id": "2",
+    "nomPostre": "Tartaleta",
+    "descripcion": "Un festín de frutos rojos con una base crujiente, crema suave y explosión de sabores. ¡Irresistible!",
+    "imgPostre": "Imagenes/imgTartaleta.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 4.50
+  },
+  {
+    "id": "3",
+    "nomPostre": "Flan",
+    "descripcion": "Un postre clásico y reconfortante, con una textura suave y cremosa y un sabor dulce caramelizado que te transportará a la infancia.",
+    "imgPostre": "Imagenes/imgFlan.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 3.00
+  },
+  {
+    "id": "4",
+    "nomPostre": "Panqueque",
+    "descripcion": "Esponjosos panqueques hechos con amor, perfectos para comenzar el día con una sonrisa. Personalízalos con tus toppings favoritos y disfruta de un desayuno o brunch inolvidable.",
+    "imgPostre": "Imagenes/imgPankeke.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 15.00
+  },
+  {
+    "id": "5",
+    "nomPostre": "Relleno",
+    "descripcion": "La crema pastelera perfecta, con una textura suave y cremosa y un sabor dulce y clásico que complementa a la perfección cualquier postre. Un ingrediente imprescindible para los amantes de la repostería.",
+    "imgPostre": "Imagenes/imgRelleno.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 8.50
+  },
+  {
+    "id": "6",
+    "nomPostre": "Trufas",
+    "descripcion": "Un bocado de terciopelo rojo. Deleitate con el irresistible sabor de las trufas de red velvet, un postre que combina la suavidad del pastel red velvet con la cremosidad del chocolate.",
+    "imgPostre": "Imagenes/imgTrufas.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 6.00
+  },
+  {
+    "id": "7",
+    "nomPostre": "Alfajores",
+    "descripcion": "Galletas crujientes rellenas de dulce de leche y bañadas en chocolate. Un manjar perfecto para compartir con amigos y familia.",
+    "imgPostre": "Imagenes/imgAlfajores.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 2.50
+  },
+  {
+    "id": "8",
+    "nomPostre": "Cupcakes",
+    "descripcion": " Pequeños bocados de felicidad, personalizados con glaseados, frostings y toppings para todos los gustos. Ideales para fiestas, cumpleaños y celebraciones.",
+    "imgPostre": "Imagenes/imgCupcakes.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 5.00
+  },
+  {
+    "id": "9",
+    "nomPostre": "Brownie",
+    "descripcion": "Un placer intenso de chocolate, denso y húmedo, con un sabor profundo que te conquistará desde el primer bocado. Imposible resistirse.",
+    "imgPostre": "Imagenes/imgBrownie.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 2.50
+  },
+  {
+    "id": "10",
+    "nomPostre": "Galletas",
+    "descripcion": "Hechas con cariño y horneadas a la perfección, nuestras galletas son el acompañante perfecto para el café o el té. Un toque dulce para alegrar tu día.",
+    "imgPostre": "Imagenes/imgGalletas.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 2.00
+  },
+  {
+    "id": "11",
+    "nomPostre": "Pastel Chocolate",
+    "descripcion": "Un clásico irresistible, elaborado con chocolate de la más alta calidad para una experiencia de sabor decadente y deliciosa. Perfecto para cualquier ocasión.",
+    "imgPostre": "Imagenes/imgPastelChoco.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 6.50
+  },
+  {
+    "id": "12",
+    "nomPostre": "Pastel de Zanahoria",
+    "descripcion": "Un pastel húmedo y especiado, con un toque dulce y crujiente de nueces y pasas. Un sabor otoñal que te conquistará.",
+    "imgPostre": "Imagenes/imgPastelZanahoria.jpg",
+    "categoria": {
+      "id": "",
+      "nombre": ""
+    },
+    "precio": 6.00
+  }
+]
+
+
